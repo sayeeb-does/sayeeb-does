@@ -1,6 +1,4 @@
-### Assalamualaikum
-## My name is Sayeeb Rahman.
-## This is my personal workspace.  
+## Assalamualaikum 
 <!--
 **sayeeb-does/sayeeb-does** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
